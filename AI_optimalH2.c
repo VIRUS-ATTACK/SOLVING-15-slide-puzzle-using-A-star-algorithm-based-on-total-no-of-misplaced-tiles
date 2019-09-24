@@ -1,4 +1,4 @@
-//this code is part of my Artificial Intelligence course assignment held at IIIT SRICITY
+
 //SURYA TEJA ACHANTA
 //UG-2 CSE
 //201601094
