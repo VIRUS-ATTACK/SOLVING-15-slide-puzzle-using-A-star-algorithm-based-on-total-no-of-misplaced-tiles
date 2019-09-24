@@ -1,3 +1,4 @@
+//this code is part of my Artificial Intelligence course assignment at IIIT SRICITY
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
