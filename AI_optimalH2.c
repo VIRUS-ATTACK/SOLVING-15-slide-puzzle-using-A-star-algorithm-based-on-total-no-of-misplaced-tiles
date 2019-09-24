@@ -1,4 +1,7 @@
-//this code is part of my Artificial Intelligence course assignment at IIIT SRICITY
+//this code is part of my Artificial Intelligence course assignment held at IIIT SRICITY
+//SURYA TEJA ACHANTA
+//UG-2 CSE
+//201601094
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
