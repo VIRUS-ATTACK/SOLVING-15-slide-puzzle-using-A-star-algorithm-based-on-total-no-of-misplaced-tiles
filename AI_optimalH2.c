@@ -1,4 +1,3 @@
-
 //SURYA TEJA ACHANTA
 //UG-2 CSE
 //201601094
@@ -6,6 +5,8 @@
 #include<stdlib.h>
 #include<limits.h>
 #define N 4
+
+//A* algorithm
 //here we are solving 15 slide puzzle using A* algorithm where
 //heuristic h(n)=total no of misplaced tiles
 //shortest distance till the current state is g(n) or cost so far to reach n
